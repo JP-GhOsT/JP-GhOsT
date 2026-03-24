@@ -59,6 +59,6 @@ Busco uma oportunidade de estágio em desenvolvimento onde eu possa:
 
 ## ⚡ GitHub Stats
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JP-GhOsT&show_icons=true&theme=dark)
 
 ---
