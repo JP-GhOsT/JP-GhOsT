@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋 Olá, eu sou JP
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec
@@ -62,3 +63,21 @@ Busco uma oportunidade de estágio em desenvolvimento onde eu possa:
 
 
 ---
+=======
+## Hi there 👋
+
+<!--
+**JP-GhOsT/JP-GhOsT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 8563d0f3db7e1ee56c252222e3a8c96a18263795
