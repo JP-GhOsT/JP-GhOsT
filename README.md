@@ -59,10 +59,10 @@ Busco uma oportunidade de estágio em desenvolvimento onde eu possa:
 
 ## ⚡ GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JP-GhOsT&show_icons=true&theme=dark)](https://github.com/JP-GhOsT)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JP-GhOsT&show_icons=true&theme=dark)](https://github.com/JP-GhOsT)
 
 ---
 
 ## 🧠 Linguagens mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-GhOsT&layout=compact&theme=dark)](https://github.com/JP-GhOsT)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JP-GhOsT&layout=compact&theme=dark)](https://github.com/JP-GhOsT)
