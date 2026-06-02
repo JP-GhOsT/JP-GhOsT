@@ -23,7 +23,7 @@ Tenho experiência com:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💻 **Linguagens:** Java, Python, JavaScript, Cobol
+- 💻 **Linguagens:** Java, Python, JavaScript, COBOL
 - 🌐 **Web:** HTML5, CSS3
 - ⚙️ **Frameworks:** Django, FastAPI
 - 🗄️ **Banco de Dados:** SQL
